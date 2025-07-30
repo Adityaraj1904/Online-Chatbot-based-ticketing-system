@@ -66,4 +66,3 @@ For detailed information about the project, see the PDF below:
 ![payment_2](https://github.com/user-attachments/assets/173f6a64-ae8b-4f9b-bb5e-dae664bed2c3)
 
 ---
-
